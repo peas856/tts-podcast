@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>TTS 러닝</title>
+    <link>https://peas856.github.io/tts-podcast/</link>
+    <description>개인용 TTS 피드</description>
+    <language>ko</language>
+    <lastBuildDate>Thu, 15 Oct 2026 23:10:18 +0900</lastBuildDate>
+    <itunes:author>peas856</itunes:author>
+    <itunes:image href="https://peas856.github.io/tts-podcast/cover.png"/>
+    <image><url>https://peas856.github.io/tts-podcast/cover.png</url><title>TTS 러닝</title><link>https://peas856.github.io/tts-podcast/</link></image>
+    <itunes:block>Yes</itunes:block>
+    <itunes:explicit>false</itunes:explicit>
+
+  </channel>
+</rss>
